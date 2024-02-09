@@ -129,16 +129,15 @@ const Navbar = () => {
             </li>
           </ul>
 
-          <a
+          {/* <a
             target="_blank"
             rel="noopener noreferrer"
             href="https://grabbits.vercel.app/"
           >
-            {/* <button className={classes.btn}>GrabBit</button> */}
             <div className={classes.btn}>
               <GrabBitBtn label="GrabBit" />
             </div>
-          </a>
+          </a> */}
 
           <div className={classes.hamburger} onClick={() => setMobile(!mobile)}>
             {mobile ? (
@@ -154,16 +153,15 @@ const Navbar = () => {
         </div>
 
         <div className={`${!mobile ? classes.none : classes.mobileBox}`}>
-          <a
+           {/* <a
             target="_blank"
             rel="noopener noreferrer"
             href="https://grabbits.vercel.app/"
           >
-            {/* <button className={classes.btn1}>GrabBit</button> */}
             <div className={classes.btn1}>
               <GrabBitBtn label="GrabBit" />
             </div>
-          </a>
+          </a>  */}
 
           {/* Mobile Page */}
 

@@ -2,8 +2,8 @@ import React from "react";
 import sambhavLogo from "../../assets/output_image-removebg-preview.png";
 import classes from "./Footer.module.css";
 
-const sambhavinsta = "https://www.instagram.com/sambhav_dypcoe/";
-const sambhavlinkedin = "https://www.linkedin.com/company/sambhav-tech-fest/";
+const sambhavinsta = "https://www.instagram.com/aiclub.ghrietn/";
+const sambhavlinkedin = "https://www.linkedin.com/company/artificial-intelligence-io/";
 // const sambhavitwitter=''
 
 const grabbitinsta = "https://www.instagram.com/grabbits_/";
@@ -11,7 +11,7 @@ const grabbitlinkedin = "https://www.linkedin.com/company/grabbits/";
 const grabbittwitter = "https://twitter.com/grabbits_";
 const grabbitwebsite = "https://grabbits.vercel.app/";
 
-const spiderurl = "https://www.linkedin.com/in/om-gawande/";
+const spiderurl = "https://www.linkedin.com/in/tejasnasre/";
 const saurabh = "https://www.linkedin.com/in/saurabh-barde-5b617321a/";
 const sanyog = "https://www.linkedin.com/in/sanyog-mahajan-8288a7204/";
 
@@ -34,7 +34,7 @@ const Footer = () => {
             </div>
           </div>
           <p className={classes.footer_sambhav_description}>
-            Sambhav'23 is One of the Largest Technical festival of Pune. Let&apos;s
+            Artificix'24 is One of the Largest Technical festival of Pune. Let&apos;s
             make a Tech move.
           </p>
           <div className={classes.footer_social_item}>
@@ -76,89 +76,7 @@ const Footer = () => {
               </a>  </div> */}
           </div>
         </div>
-        <div className={classes.footer_first}>
-          <div className={classes.footer_sambhav_image_div}>
-            <div>
-              <a
-                href={grabbiturl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className={classes.footer_a_link}
-              >
-                {/* <img
-                  className={classes.footer_grabbit_image}
-                  src={grabbitslogo}
-                  alt="sambhavLogo"
-                ></img> */}
-              </a>
-            </div>
-            <div>
-              {/* <h1 className={classes.footer_sambhav}>GrabBit</h1> */}
-            </div>
-          </div>
-          <p className={classes.footer_sambhav_description}>
-            Get the latest updates about internships, hackathons, job openings
-            and much more..
-          </p>
-          <div className={classes.footer_social_item}>
-            <div>
-              <a
-                href={grabbitinsta}
-                target="_blank"
-                rel="noopener noreferrer"
-                className={classes.footer_a_link}
-              >
-                <img
-                  className={classes.footer_social_link}
-                  src="https://img.icons8.com/fluency/48/ffffff/instagram-new.png"
-                  alt=""
-                />
-              </a>{" "}
-            </div>
-            <div>
-              <a
-                href={grabbitlinkedin}
-                target="_blank"
-                rel="noopener noreferrer"
-                className={classes.footer_a_link}
-              >
-                <img
-                  className={classes.footer_social_link}
-                  src="https://img.icons8.com/color/48/ffffff/linkedin-circled--v1.png"
-                  alt=""
-                />
-              </a>
-            </div>
-            <div>
-              <a
-                href={grabbittwitter}
-                target="_blank"
-                rel="noopener noreferrer"
-                className={classes.footer_a_link}
-              >
-                <img
-                  className={classes.footer_social_link}
-                  src="https://img.icons8.com/fluency/48/ffffff/twitter-circled.png"
-                  alt=""
-                />
-              </a>{" "}
-            </div>
-            <div>
-              <a
-                href={grabbitwebsite}
-                target="_blank"
-                rel="noopener noreferrer"
-                className={classes.footer_a_link}
-              >
-                <img
-                  className={classes.footer_social_link}
-                  src="https://img.icons8.com/color/48/ffffff/domain--v1.png"
-                  alt="zsdsff"
-                />
-              </a>
-            </div>
-          </div>
-        </div>
+        
         {/* <div className={classes.footer}second'>
           <h2 className={classes.footer}menu-heading'>Menu</h2>
           <h6 className={classes.footer}page-link'>About US</h6>
@@ -178,7 +96,7 @@ const Footer = () => {
               />
             </div>
             <div>
-              <p>D.Y. Patil College of Engineering, Pune</p>
+              <p>G H Raisoni Institute of Engineering and Technology, Nagpur</p>
             </div>
           </div>
           <div className={classes.footer_contact}>
@@ -190,7 +108,7 @@ const Footer = () => {
               />
             </div>
             <div>
-              <p>7447819903</p>
+              <p>9356526020</p>
             </div>
           </div>
           <div className={classes.footer_contact}>
@@ -202,41 +120,21 @@ const Footer = () => {
               />
             </div>
             <div>
-              <p className={classes.mail}>sambhavdypcoeofficial@gmail.com</p>
+              <p className={classes.mail}>shwetal.potle.ai@ghrietn.raisoni.net</p>
             </div>
           </div>
         </div>
       </div>
       <div className={classes.footer_creator_div}>
         <h4 className={classes.footer_creator}>
-          Website designed and created by{" "}
+          Made With 💗 By{" "}
           <a
             href={spiderurl}
             target="_blank"
             rel="noopener noreferrer"
             className={classes.footer_a_link}
           >
-            @Om Gawande
-          </a>{" "}
-          ,{" "}
-          <a
-            href={saurabh}
-            target="_blank"
-            rel="noopener noreferrer"
-            className={classes.footer_a_link}
-          >
-            {" "}
-            @Saurabh Barde
-          </a>{" "}
-          and{" "}
-          <a
-            href={sanyog}
-            target="_blank"
-            rel="noopener noreferrer"
-            className={classes.footer_a_link}
-          >
-            {" "}
-            @Sanyog Mahajan
+            Tejas Nasre
           </a>{" "}
         </h4>
       </div>

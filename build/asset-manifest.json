@@ -1,32 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.21e3ce63.css",
-    "main.js": "/static/js/main.df21c6bc.js",
-    "static/media/SpaceExpo.png": "/static/media/SpaceExpo.9d7975c5d5a3cbc154a1.png",
-    "static/media/RelayRacing.png": "/static/media/RelayRacing.9867b469ca9f0ff63c5b.png",
-    "static/media/DraicPlayground.png": "/static/media/DraicPlayground.f26b89ddaa2c85d98ae3.png",
-    "static/media/MurderMystery.png": "/static/media/MurderMystery.fe731d6b417d46c33614.png",
-    "static/media/GamingZone.png": "/static/media/GamingZone.31730fb9fd29b1d748c5.png",
-    "static/media/TreasureHunt.png": "/static/media/TreasureHunt.3fd762409997d6b6f5d6.png",
-    "static/media/CadCompetiton.png": "/static/media/CadCompetiton.559e3eb9d7f54ab01d2e.png",
-    "static/media/SupercarShow.png": "/static/media/SupercarShow.62b4f4dc99292097cdeb.png",
-    "static/media/RoboRace.png": "/static/media/RoboRace.8f92bb1a51d5fbe61581.png",
-    "static/media/FlyHigh.png": "/static/media/FlyHigh.692a4c202a9de98f2a6f.png",
-    "static/media/ShotOnQuiz.png": "/static/media/ShotOnQuiz.c247e32434a77798204c.png",
-    "static/media/SpinningRival.png": "/static/media/SpinningRival.02f6bbb2c511d4133414.png",
-    "static/media/Hackathon.png": "/static/media/Hackathon.7f1737d5d7b792352fd8.png",
-    "static/media/quiz.png": "/static/media/quiz.187a17ac1bebc2731dae.png",
-    "static/media/Blogathon.png": "/static/media/Blogathon.8acb938f4ffbe6479c7e.png",
-    "static/media/MaskedCoding.png": "/static/media/MaskedCoding.728bcff44b5cecd76779.png",
-    "static/media/BlindCoding.png": "/static/media/BlindCoding.bf12d34878c4731516aa.png",
-    "static/media/HopSites.png": "/static/media/HopSites.69a48f587efe9ee40999.png",
-    "static/media/RoboSoccer.png": "/static/media/RoboSoccer.024005d17e25fc5bd906.png",
-    "static/media/BotBusters.png": "/static/media/BotBusters.c5e5427badcf37d41c5d.png",
-    "static/media/CodeBuddies.png": "/static/media/CodeBuddies.ce616ce74f1632f66fe5.png",
-    "static/media/TremblingTower.png": "/static/media/TremblingTower.d5e6b7f7958607450507.png",
-    "static/media/ReadandType.png": "/static/media/ReadandType.1196e9de5e06b92b40e8.png",
-    "static/media/Khoj.png": "/static/media/Khoj.8d8a3d6584b902e98e94.png",
-    "static/media/SpeedTypers.png": "/static/media/SpeedTypers.e5b563c962beb4eb9616.png",
+    "main.css": "/static/css/main.b20e7ac9.css",
+    "main.js": "/static/js/main.09d9baab.js",
+    "static/media/hacathon.jpeg": "/static/media/hacathon.dfb2c17526a9f6b3d5c1.jpeg",
     "static/media/about.svg": "/static/media/about.71f1e99fb878207a8572b0f0e48aabfa.svg",
     "static/media/event.svg": "/static/media/event.c69ac15bd0321df7da38de7b0da9a6fc.svg",
     "static/media/Logo.png": "/static/media/Logo.7ffbe623ee1b8fbbe818.png",
@@ -36,11 +12,11 @@
     "static/media/Quantum.otf": "/static/media/Quantum.ab22dee95cbffcc89a87.otf",
     "static/media/backGround.svg": "/static/media/backGround.a81af7b043965c800371.svg",
     "index.html": "/index.html",
-    "main.21e3ce63.css.map": "/static/css/main.21e3ce63.css.map",
-    "main.df21c6bc.js.map": "/static/js/main.df21c6bc.js.map"
+    "main.b20e7ac9.css.map": "/static/css/main.b20e7ac9.css.map",
+    "main.09d9baab.js.map": "/static/js/main.09d9baab.js.map"
   },
   "entrypoints": [
-    "static/css/main.21e3ce63.css",
-    "static/js/main.df21c6bc.js"
+    "static/css/main.b20e7ac9.css",
+    "static/js/main.09d9baab.js"
   ]
 }

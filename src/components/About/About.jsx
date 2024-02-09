@@ -16,10 +16,10 @@ const About = () => {
               a platform for individuals to showcase their skills, learn from
               others, and foster creativity, teamwork, and problem-solving
               abilities. By exposing attendees to the latest advancements in
-              technology, Sambhav helps broaden their knowledge and skillset,
+              technology, Artificix helps broaden their knowledge and skillset,
               making it a fun, engaging, and enriching experience for all
               attendees. Get ready to be a part of the biggest technical
-              extravaganza of the year 2k24 – Sambhav!
+              extravaganza of the year 2k24 – Artificix!
             </p>
 
             {/* <p className={classes.para}>

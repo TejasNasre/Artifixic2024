@@ -3,24 +3,24 @@ import classes from "./Faq.module.css";
 
 const questions = [
   {
-    question: "What is SAMBHAV 2K23?",
+    question: "What is ARTIFICIX 2K24?",
     answer:
-      "SAMBHAV 2k23 is the one of biggest Technical event in the history of DYPCOE.",
+      "Artificix 2k23 is the one of biggest Technical event in the history of GHRIET.",
   },
   {
     question: "What are the Dates and Timings of event?",
     answer:
-      "The event will start at 9AM on 20th Feb and will be till 21st of Feb 10 PM",
+      "The event will start at 10AM on 16th Feb and will be till 17th of Feb 7PM",
   },
   {
     question: "How can I participate in the event?",
     answer:
-      "Explore various events on the SAMBHAV's website and register for the same",
+      "Explore various events on the Artificix's website and register for the same",
   },
   {
-    question: "Is there any entry fee for SAMBHAV 2k23?",
+    question: "Is there any entry fee for Artificix 2k23?",
     answer:
-      "No, there is not any entry fee to explore SAMBHAV 2k23 but to participate in some events you have pay registration fee.",
+      "No, there is not any entry fee to explore Artificix 2k23 but to participate in some events you have pay registration fee.",
   },
 ];
 
