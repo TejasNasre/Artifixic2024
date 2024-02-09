@@ -18,7 +18,7 @@ const questions = [
       "Explore various events on the Artificix's website and register for the same",
   },
   {
-    question: "Is there any entry fee for Artificix 2k23?",
+    question: "Is there any entry fee for Artificix 2k24?",
     answer:
       "No, there is not any entry fee to explore Artificix 2k23 but to participate in some events you have pay registration fee.",
   },
