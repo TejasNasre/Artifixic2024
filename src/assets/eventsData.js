@@ -4,6 +4,8 @@ import smackdown from "./Events/smackdown.jpg"
 import bgmi from "./Events/bgmi.jpeg"
 import hackhunt from "./Events/hackhunt.jpeg"
 import rapid from "./Events/rapid.jpeg"
+import valorant from "./Events/valorant.jpeg"
+import bayblade from "./Events/bayblade.jpeg"
 
 export const eventsData = [
   {
@@ -41,6 +43,40 @@ export const eventsData = [
   },
   {
     id: 2,
+    image: valorant,
+    name: "Valorant",
+    description:[
+      "Dive into the thrilling realm of Valorant esports, where precision and strategy converge in explosive 5v5 battles. Witness top-tier players showcase their reflexes and teamwork, as they compete for glory and dominance. Valorant esports: where every headshot and tactical move shapes the narrative of intense competition."
+    ],
+    rules: [
+      "The Event will be conducted in ONLINE mode.",
+      "Anyone can participate in this tournament.",
+      "Exciting cash prizes will be given to the Champions ,Runner-ups, MVP.",
+      "Registration fees is 500/- per team.",
+      "Each team must have at least 5 players and 1 optional player.",
+      "No use of bad language or behavior will be tolerated.",
+      "every match to be played is a knockout match.",
+      "Players must use their highest-ranked account during sign-up to avoid smurfing accusations and repercussions.",
+      "Certificates will be provided to all the participants.",
+      "Basic Lobby Settings",
+      "Coordinators reserve all rights for the tournament",
+    ],
+    prizes: ["Win Exciting Cash Prize"],
+    team: "5 Players + 1 Optional Player",
+    fees: "₹500 per team",
+    contactInfo: [
+      "Meghraj Shinganjude : 8698406085",
+      "Sahil Selokar : 7559374896",
+    ],
+    location: "Woman's Building Block-C",
+    date: "16th & 17th Feb 2024",
+    note: [
+      "Map will be elected through voting.",
+    ],
+    link: "https://docs.google.com/forms/d/1-G6H9BXL6lKCR8JitJvb53ct8J0trWwmLwKJYGJ4wss/viewform?edit_requested=true",
+  },
+  {
+    id: 3,
     image: armw,
     name: "Arm Wrestling",
     description:
@@ -72,7 +108,7 @@ export const eventsData = [
     link: "https://docs.google.com/forms/d/1663OILgua5Xkzh9flrWmfoMeTh5bfUPv-R6PliYKeiE/formrestricted",
   },
   {
-    id: 3,
+    id: 4,
     image: smackdown,
     name: "Smackdown",
     description:
@@ -108,7 +144,7 @@ export const eventsData = [
     link: "https://docs.google.com/forms/d/18L7HQYw95Xvgaln4MT4w1HOewQGB2_7Rns-pltYvCDk/viewform?edit_requested=true",
   },
   {
-    id: 4,
+    id: 5,
     image: bgmi,
     name: "BGMI",
     description:
@@ -145,7 +181,7 @@ export const eventsData = [
     link: "https://docs.google.com/forms/d/e/1FAIpQLSfOJNLKMWEPIIB7OczC1trcVHdDM_TehzIWmp3PtZqgSh3WnA/viewform?vc=0&c=0&w=1&flr=0",
   },
   {
-    id: 5,
+    id: 6,
     image: hackhunt,
     name: "Hack Hunt",
     description:
@@ -177,7 +213,7 @@ export const eventsData = [
     link: "https://docs.google.com/forms/d/e/1FAIpQLSemfeMTFijT6UYR0sqssfmHzDyDumHyUpbv0gfn1KvjhRn03g/viewform",
   },
     {
-      id: 6,
+      id: 7,
       image: rapid,
       name: "Rapid Typathon",
       description:
@@ -206,5 +242,36 @@ export const eventsData = [
         "In case of technical difficulties, participants must notify event organizers immediately.",
       ],
       link: "https://docs.google.com/forms/d/e/1FAIpQLSe-d2uDojUz3J49ZecHKL39KznnwkKwjRLIzlFePcMIntJEwA/viewform",
+    },
+    {
+      id: 8,
+      image: bayblade,
+      name: "Bayblade",
+      description:
+      "Get ready for a Beyblade showdown! Join us in a thrilling event where bladers clash, launching customized tops into epic battles of skill and precision. Experience the adrenaline as spinning tops compete for supremacy in an arena filled with excitement and strategy.",
+      rules: [
+        "Launch Zone: Beyblades must be launched from designated zones.",
+        "First to Three Points: Win by making your opponent's Beyblade stop or exit the arena first.",
+        "Blade Customization: Customize your Beyblade within set rules.",
+        "Referee Decisions: Referee calls are final.",
+        "Time Limit: Matches have a time limit; most points win.",
+        "Sportsmanship: Respect opponents and play fairly.",
+        "Arena Regulations: Follow specific rules for the event's arena.",
+        "Equipment Inspection: Beyblades must pass pre-event checks.",
+        "Enjoy the Game: Have fun and embrace the competition!",
+      ],
+      prizes: ["Win Exciting Cash Prize"],
+      team: "Individuals",
+      fees: "₹30 per person",
+      contactInfo: [
+        "Kanishq Birole :  9373722638",
+        "Shobhit Rangari : 91569 08934",
+      ],
+      location: "Woman's Building - Atrium",
+      date: "16th Feb",
+      note: [
+        "Respect referee decisions.",
+      ],
+      link: "https://docs.google.com/forms/d/1JFTFNeuX3_gYXI3xVwScVRfU2_YmHfBcZyLxHrp6QFc/viewform?ts=65c51d37&edit_requested=true",
     },
 ];

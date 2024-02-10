@@ -108,7 +108,8 @@ const Footer = () => {
               />
             </div>
             <div>
-              <p>9356526020</p>
+              <p>Shwetal Potle (9356526020)</p>
+              <p>Om Barde (8766721568)</p>
             </div>
           </div>
           <div className={classes.footer_contact}>
@@ -121,6 +122,7 @@ const Footer = () => {
             </div>
             <div>
               <p className={classes.mail}>shwetal.potle.ai@ghrietn.raisoni.net</p>
+              <p className={classes.mail}>om.barde.ai@ghrietn.raisoni.net</p>
             </div>
           </div>
         </div>

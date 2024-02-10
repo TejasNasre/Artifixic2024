@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c9dc1e9.css",
-    "main.js": "/static/js/main.baebc60d.js",
+    "main.css": "/static/css/main.8a63f5b3.css",
+    "main.js": "/static/js/main.729620a7.js",
     "static/media/smackdown.jpg": "/static/media/smackdown.d8e31e3e3c073c99e2db.jpg",
     "static/media/armw.png": "/static/media/armw.1c77949a9cb0764eb2a6.png",
     "static/media/hacathon.jpeg": "/static/media/hacathon.dfb2c17526a9f6b3d5c1.jpeg",
@@ -9,18 +9,20 @@
     "static/media/rapid.jpeg": "/static/media/rapid.c607e5f5ad1d7ddc1526.jpeg",
     "static/media/event.svg": "/static/media/event.c69ac15bd0321df7da38de7b0da9a6fc.svg",
     "static/media/bgmi.jpeg": "/static/media/bgmi.de098ca07cdf1f20b6e9.jpeg",
+    "static/media/valorant.jpeg": "/static/media/valorant.0d58fbfa44d239c1c83d.jpeg",
+    "static/media/bayblade.jpeg": "/static/media/bayblade.013ac34f33b9a56d7465.jpeg",
     "static/media/hackhunt.jpeg": "/static/media/hackhunt.9d602396751744abc47f.jpeg",
     "static/media/grabby.png": "/static/media/grabby.edfd201c89054ec1f9ef.png",
     "static/media/Hero.svg": "/static/media/Hero.899cad8d98aba1feee10.svg",
-    "static/media/output_image-removebg-preview.png": "/static/media/output_image-removebg-preview.ca3f926635119d605a6d.png",
+    "static/media/output_image-removebg-preview.png": "/static/media/output_image-removebg-preview.6832144f90d195bba663.png",
     "static/media/Quantum.otf": "/static/media/Quantum.ab22dee95cbffcc89a87.otf",
     "static/media/backGround.svg": "/static/media/backGround.a81af7b043965c800371.svg",
     "index.html": "/index.html",
-    "main.9c9dc1e9.css.map": "/static/css/main.9c9dc1e9.css.map",
-    "main.baebc60d.js.map": "/static/js/main.baebc60d.js.map"
+    "main.8a63f5b3.css.map": "/static/css/main.8a63f5b3.css.map",
+    "main.729620a7.js.map": "/static/js/main.729620a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c9dc1e9.css",
-    "static/js/main.baebc60d.js"
+    "static/css/main.8a63f5b3.css",
+    "static/js/main.729620a7.js"
   ]
 }
