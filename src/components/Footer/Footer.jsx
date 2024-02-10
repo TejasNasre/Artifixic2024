@@ -34,7 +34,7 @@ const Footer = () => {
             </div>
           </div>
           <p className={classes.footer_sambhav_description}>
-            Artificix'24 is One of the Largest Technical festival of Pune. Let&apos;s
+            Artificix'24 is One of the Largest Technical festival of GHRIET. Let&apos;s
             make a Tech move.
           </p>
           <div className={classes.footer_social_item}>

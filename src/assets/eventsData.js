@@ -1,12 +1,15 @@
 import hackathon from "./Events/hacathon.jpeg"
 import armw from "./Events/armw.png"
 import smackdown from "./Events/smackdown.jpg"
+import bgmi from "./Events/bgmi.jpeg"
+import hackhunt from "./Events/hackhunt.jpeg"
+import rapid from "./Events/rapid.jpeg"
 
 export const eventsData = [
   {
     id: 1,
     image: hackathon,
-    name: "Prototype",
+    name: "Hackathon",
     description:
       "Join our 6-hour Hackathon, where AI tools meet innovation. Solve real-world challenges, collaborate with tech enthusiasts, and push the boundaries of coding creativity in this dynamic event.",
     rules: [
@@ -29,7 +32,7 @@ export const eventsData = [
       "Soham Khedkar : 8411098534",
       "Shreyash Ahirkar : 8446441886",
     ],
-    location: "--------",
+    location: "Woman's Building Block-C",
     date: "16th Feb",
     note: [
       "Teams having a working model of their idea will be considered as a plus point by judging panel.",
@@ -103,5 +106,105 @@ export const eventsData = [
       "Controls Mastery: Learn PS2 controls for seamless wrestling action.",
     ],
     link: "https://docs.google.com/forms/d/18L7HQYw95Xvgaln4MT4w1HOewQGB2_7Rns-pltYvCDk/viewform?edit_requested=true",
-  }
+  },
+  {
+    id: 4,
+    image: bgmi,
+    name: "BGMI",
+    description:
+      "Get ready for the ultimate BGMI showdown! Join top squads in a Battle Royale spectacle at our esports event. Watch live for intense gaming, fierce competition, and epic prizes 🎮🔥",
+    rules: [
+      "The Event will be conducted in ONLINE mode.",
+      "Anyone can participate in this tournament.",
+      "Exciting cash prizes will be given to the Champions,Runner-ups, MVP.",
+      "Registration fees is 120/- per team.",
+      "Each team must have 4 players .",
+      "Any use of unfair means such as aimbot, trigger bot, ESP ,team will be disqualified.",
+      "Every match to be played is a knockout match.",
+      "Top 5 team will be selected for the next rounds.",
+      "Organizers would not be held responsible for connectivity issues on the participant's side.",
+      "Certificates will be provided to all the participants.",
+      "Emulators are not allowed in any game mode organized. The player will be disqualified if found using any kind of emulator.",
+      "Participants are requested to remain ready at least 15 minutes prior to the start of any match.",
+      "Exiting a game without good reason will disqualify the team.",
+      "The entry fee would not be refunded under any circumstances.",
+      "Coordinators reserve all rights for the tournament. ",
+    ],
+    prizes: ["Win Exciting Cash Prize"],
+    team: "4 Players",
+    fees: "₹120 per team",
+    contactInfo: [
+      "Amey Meghare : 9518385525 ",
+      "Revatish Sur : 7083516838",
+    ],
+    location: "BLOCK 'C', GHRIET",
+    date: "16th & 17th Feb 2024",
+    note: [
+      "Waiting time is at most 10 minutes between games",
+    ],
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSfOJNLKMWEPIIB7OczC1trcVHdDM_TehzIWmp3PtZqgSh3WnA/viewform?vc=0&c=0&w=1&flr=0",
+  },
+  {
+    id: 5,
+    image: hackhunt,
+    name: "Hack Hunt",
+    description:
+      "Get ready for the ultimate BGMI showdown! Join top squads in a Battle Royale spectacle at our esports event. Watch live for intense gaming, fierce competition, and epic prizes 🎮🔥",
+    rules: [
+      "The Event will be conducted in OFLINE mode.",
+      "Anyone can participate in this event.",
+      "Exciting cash prizes will be given to the the winner.",
+      "Registration fees is 100/- per team.",
+      "Each team must have atleast 4 members and from them one is team leader.",
+      "Certificates will be provided to all the participants.",
+      "During this event no electronic devices are allowed to be carried by any participants.(examples -Mobile, digital watches, bluetooth earbuds, etc).",
+      "Coordinators have all rights to disqualify any participants under any mal practice.",
+      "One volunteer will be allotted to every team to supervise them.",
+
+    ],
+    prizes: ["Win Exciting Cash Prize"],
+    team: "4 Members",
+    fees: "₹100 per team",
+    contactInfo: [
+      "Ashlesha Mohite : 7385047416",
+      "Prayas Jadhav : 8459807469",
+    ],
+    location: "BLOCK 'C', GHRIET",
+    date: "16th & 17th Feb 2024",
+    note: [
+      "First round contain two sub rounds from them 1st will be quiz round and 2nd will be problem solving.",
+    ],
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSemfeMTFijT6UYR0sqssfmHzDyDumHyUpbv0gfn1KvjhRn03g/viewform",
+  },
+    {
+      id: 6,
+      image: rapid,
+      name: "Rapid Typathon",
+      description:
+        "Engage in the Rapid Typathon, where speed and precision collide in a keyboard battle. Test your typing prowess and compete for the title of the fastest typist in this thrilling challenge!",
+      rules: [
+        "The Event will be conducted in OFFLINE mode.",
+        "Anyone can participate in this event.",
+        "Exciting cash prizes will be given to the Winner.",
+        "Registration fees is 50/- per person.",
+        "The event will be conducted in 3 rounds.",
+        "Number of eliminations in each round will be dependent on number of participants.",
+        "Certificates will be provided to all the participants.",
+        "Participants should report on the given time otherwise they will be disqualified.",
+        "The entry fee would not be refunded under any circumstances.",
+      ],
+      prizes: ["Win Exciting Cash Prize"],
+      team: "Individuals",
+      fees: "₹50 per person",
+      contactInfo: [
+        "Viraj Belsare : 7420814632",
+        "Punarv Patidar : 9179446477",
+      ],
+      location: "BLOCK 'C', GHRIET",
+      date: "16th & 17th Feb 2024",
+      note: [
+        "In case of technical difficulties, participants must notify event organizers immediately.",
+      ],
+      link: "https://docs.google.com/forms/d/e/1FAIpQLSe-d2uDojUz3J49ZecHKL39KznnwkKwjRLIzlFePcMIntJEwA/viewform",
+    },
 ];
