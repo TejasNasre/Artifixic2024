@@ -185,7 +185,8 @@ export const eventsData = [
     image: hackhunt,
     name: "Hack Hunt",
     description:
-      "Get ready for the ultimate BGMI showdown! Join top squads in a Battle Royale spectacle at our esports event. Watch live for intense gaming, fierce competition, and epic prizes 🎮🔥",
+    "Dive into the ultimate tech treasure hunt with 'Hack Hunt'—a fast-paced adventure of decoding clues, solving puzzles, and showcasing your hacking skills. Navigate the digital landscape, uncover hidden challenges, and compete for the title of tech champion. Are you ready for the hunt of a lifetime?"
+      ,
     rules: [
       "The Event will be conducted in OFLINE mode.",
       "Anyone can participate in this event.",

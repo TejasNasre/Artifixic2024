@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.168a2c32.css",
-    "main.js": "/static/js/main.995d9166.js",
+    "main.js": "/static/js/main.bc7c5776.js",
     "static/media/smackdown.jpg": "/static/media/smackdown.d8e31e3e3c073c99e2db.jpg",
     "static/media/armw.png": "/static/media/armw.1c77949a9cb0764eb2a6.png",
     "static/media/hacathon.jpeg": "/static/media/hacathon.dfb2c17526a9f6b3d5c1.jpeg",
@@ -32,10 +32,10 @@
     "static/media/backGround.svg": "/static/media/backGround.a81af7b043965c800371.svg",
     "index.html": "/index.html",
     "main.168a2c32.css.map": "/static/css/main.168a2c32.css.map",
-    "main.995d9166.js.map": "/static/js/main.995d9166.js.map"
+    "main.bc7c5776.js.map": "/static/js/main.bc7c5776.js.map"
   },
   "entrypoints": [
     "static/css/main.168a2c32.css",
-    "static/js/main.995d9166.js"
+    "static/js/main.bc7c5776.js"
   ]
 }
