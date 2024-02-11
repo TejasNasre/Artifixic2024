@@ -1,0 +1,23 @@
+.mentors{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 8rem;
+    padding: 5rem 5rem;
+    border-radius: 15px;
+}
+
+.mentor-padd{
+    height: 100%;
+    padding: 3rem 1.5rem;
+    background-color: rgba(0, 0, 0, 0.432);
+}
+
+.mentor-heading h1{
+    text-align: center;
+    font-size: 3.5rem;
+    color: white;
+}

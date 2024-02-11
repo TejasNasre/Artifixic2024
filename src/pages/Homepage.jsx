@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import About from "../components/About/About";
 import Contact from "../components/Contact/Contact";
 import Hero from "../components/Hero/Hero";
+import Mentro from "../components/Mentors/Mentro";
 import ReactGA from "react-ga";
 
 const Homepage = () => {
@@ -12,6 +13,7 @@ const Homepage = () => {
     <>
       <Hero />
       <About />
+      <Mentro/>
       <Contact />
     </>
   );
